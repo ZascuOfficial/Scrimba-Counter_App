@@ -4,6 +4,4 @@ This was the first JavaScript project that I have worked on at Scrimba, learning
 
 Scrimba Course - https://scrimba.com/learn/learnjavascript
 
-My Twitter - https://twitter.com/ZascuOfficial
-
 The Website Page - https://zascuofficial.github.io/Scrimba-Counter_App/
